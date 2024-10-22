@@ -15,11 +15,11 @@ Alternatively, you can:
 ## Step 2 - applying a combinatorial algorithm
 
 If you prepared your text file, you can now use the CPP program (main.cpp) to create all triangles based on your point data set. 
-You should have a CPP editor such as Code::Blocks sofotware.
+Make sure you have a CPP editor such as Code::Blocks.
 
 ## Step 3 - statistical analysis
 
-If you have the outout from the combinatorial algorithm, you can move to statistical analysis (statistical_analysis.R) to calculate relevant directional statistics such as mean and median direction and circular dispersion.
+If you have the output from the combinatorial algorithm, you can move to statistical analysis (statistical_analysis.R) to calculate relevant directional statistics such as mean and median direction and circular dispersion.
 
 ## Appendix
 
