@@ -1,6 +1,8 @@
 # 3GeoCombine2
 ![11_09_24_four_dips](https://github.com/user-attachments/assets/87e31f1f-a98d-4861-83af-62805aa22317)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13974878.svg)](https://doi.org/10.5281/zenodo.13974878)
+
 The objective of this software is to analyze directional data resulting from applying a combinatorial algorithm to a displaced geological horizon. The above picture presents data stored in a regular grid. The left panels present data (all possible triangles) without elevation errors. Because there are only two elevations, our formal analysis shows that there will be identical dip directions for different triangles sharing the same edge on the flat surface. The right panels present data with added uncertainty. There is a cloud at the centre of the plot indicating the orientation of the flat surfaces. Area with lower density of observations opposite to the true dip direction can also be observed.
 
 ## Step 1 - preparing data
