@@ -6,6 +6,7 @@ The objective of this software is to analyze directional data resulting from app
 ## Step 1 - preparing data
 
 Prepare a text file which contains XYZ coordinates of your displaced horizon. Note that columns should be separated by a space:
+
 ![image](https://github.com/user-attachments/assets/158977fa-417a-43fb-bc05-476fe463077b)
 
 Alternatively, you can:
