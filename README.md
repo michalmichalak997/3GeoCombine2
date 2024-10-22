@@ -6,10 +6,9 @@ The objective of this software is to analyze directional data resulting from app
 ## Step 1 - preparing data
 
 Prepare a text file which contains XYZ coordinates of your displaced horizon. Note that columns should be separated by a space:
+![image](https://github.com/user-attachments/assets/62c36203-c724-4cd1-91ab-36dada744dbb)
 
-1 2 4 
-2.1 4 0.1
-5 1 9.7
+
 
 Alternatively, you can:
 -download our input data from Zenodo (see reference in the paper)
@@ -17,7 +16,8 @@ Alternatively, you can:
 
 ## Step 2 - applying a combinatorial algorithm
 
-If you prepared your text file, you can now use the CPP program (main.cpp) to create all triangles based on your point data set.
+If you prepared your text file, you can now use the CPP program (main.cpp) to create all triangles based on your point data set. 
+You should have a CPP editor such as Code::Blocks sofotware.
 
 ## Step 3 - statistical analysis
 
