@@ -6,13 +6,11 @@ The objective of this software is to analyze directional data resulting from app
 ## Step 1 - preparing data
 
 Prepare a text file which contains XYZ coordinates of your displaced horizon. Note that columns should be separated by a space:
-![image](https://github.com/user-attachments/assets/62c36203-c724-4cd1-91ab-36dada744dbb)
-
-
+![image](https://github.com/user-attachments/assets/158977fa-417a-43fb-bc05-476fe463077b)
 
 Alternatively, you can:
--download our input data from Zenodo (see reference in the paper)
--prepare synthetic data with two elevations and then add uncertainty to the elevation data (adding_error.R)
+- download our input data from Zenodo (see reference in the paper)
+- prepare synthetic data with two elevations and then add uncertainty to the elevation data (adding_error.R)
 
 ## Step 2 - applying a combinatorial algorithm
 
