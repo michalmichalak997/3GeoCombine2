@@ -106,7 +106,7 @@ stdev
 m2=(1/N)*sum(cos(2*(dip_direction*pi/180-mean_dir*pi/180))) #p-th (p=2) trigonometric moment about the mean direction
 m2
 
-circ_disp=(1-m2^2)/(2*mean_resultant_length^2)
+circ_disp=(1-m2)/(2*mean_resultant_length^2)
 circ_disp
 
 #Circular standard error
