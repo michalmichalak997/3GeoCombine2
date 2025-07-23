@@ -1,3 +1,6 @@
+⚠️ Important note: After the v1.0 release was archived on Zenodo, minor corrections were applied directly to the code in GitHub.  
+ Therefore, GitHub's v1.0 may differ from the Zenodo DOI version.  
+ A corrected and synchronized version is available as [v1.1](https://zenodo.org/records/16372587).
 # 3GeoCombine2
 ![11_09_24_four_dips](https://github.com/user-attachments/assets/87e31f1f-a98d-4861-83af-62805aa22317)
 
